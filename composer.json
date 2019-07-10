@@ -29,7 +29,7 @@
         "zendframework/zend-mime": "2.1.*"
     },
     "replace": {
-		"denisleemkuil/besimplesoapbundlesymfony3":  "^0.4",
+        "besimple/soap-bundle": "self.version",
         "besimple/soap-client": "self.version",
         "besimple/soap-common": "self.version",
         "besimple/soap-server": "self.version",
