@@ -24,12 +24,12 @@
         "ext-soap": "*",
         "ext-curl": "*",
         "ass/xmlsecurity": "~1.0",
-        "symfony/framework-bundle": "^2.7 || ^3.0",
-        "symfony/twig-bundle": "^2.7 || ^3.0",
+        "symfony/framework-bundle": "^2.8 || ^3.0",
+        "symfony/twig-bundle": "^2.8 || ^3.0",
         "zendframework/zend-mime": "2.1.*"
     },
     "replace": {
-        "besimple/soap-bundle": "self.version",
+		"denisleemkuil/besimplesoapbundlesymfony3":  "^0.4",
         "besimple/soap-client": "self.version",
         "besimple/soap-common": "self.version",
         "besimple/soap-server": "self.version",
